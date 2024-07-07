@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  width: 246px;
+  width: fit-content;
   overflow: hidden;
 }
 
